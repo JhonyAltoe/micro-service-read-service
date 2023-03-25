@@ -1,0 +1,39 @@
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:03:02-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:04:57-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:06:11-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T15:06:17-03:00"}
+{"level":"error","msg":"Error Reading services on MongoDB: sulaTopHair cannot decode document into []entities.Service","time":"2023-03-24T15:06:17-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:08:03-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T15:08:09-03:00"}
+{"level":"info","msg":"UpdateSchedule took 101.203µs","time":"2023-03-24T15:08:09-03:00"}
+{"level":"info","msg":"Query Complete successfully on sulaTopHair","time":"2023-03-24T15:08:09-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:08:54-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T15:08:58-03:00"}
+{"level":"info","msg":"UpdateSchedule took 87.531µs","time":"2023-03-24T15:08:58-03:00"}
+{"level":"info","msg":"Query Complete successfully on sulaTopHair","time":"2023-03-24T15:08:58-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:09:58-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T15:10:06-03:00"}
+{"level":"info","msg":"UpdateSchedule took 68.953µs","time":"2023-03-24T15:10:06-03:00"}
+{"level":"info","msg":"Query Complete successfully on sulaTopHair","time":"2023-03-24T15:10:06-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T15:56:19-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T15:56:22-03:00"}
+{"level":"error","msg":"Error Reading services on MongoDB: sulaTopHair (BadValue) unknown operator: $filter","time":"2023-03-24T15:56:22-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T16:02:48-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T16:02:53-03:00"}
+{"level":"error","msg":"Error Reading services on MongoDB: sulaTopHair results argument must be a pointer to a slice, but was a pointer to struct","time":"2023-03-24T16:02:53-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T16:03:34-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T16:03:36-03:00"}
+{"level":"info","msg":"UpdateSchedule took 72.051µs","time":"2023-03-24T16:03:36-03:00"}
+{"level":"info","msg":"Query Complete successfully on sulaTopHair","time":"2023-03-24T16:03:36-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T16:04:48-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T16:04:51-03:00"}
+{"level":"info","msg":"UpdateSchedule took 75.675µs","time":"2023-03-24T16:04:51-03:00"}
+{"level":"info","msg":"Query Complete successfully on sulaTopHair","time":"2023-03-24T16:04:51-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T16:05:29-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T16:13:47-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T16:13:58-03:00"}
+{"level":"error","msg":"Error Reading services on MongoDB: sulaTopHair cannot decode document into []entities.Company","time":"2023-03-24T16:13:58-03:00"}
+{"level":"warning","msg":"Pinging MongoDB ...","time":"2023-03-24T16:14:09-03:00"}
+{"level":"warning","msg":"Reading Schedules on %vsulaTopHair","time":"2023-03-24T16:14:11-03:00"}
+{"level":"info","msg":"UpdateSchedule took 120.247µs","time":"2023-03-24T16:14:11-03:00"}
+{"level":"info","msg":"Query Complete successfully on sulaTopHair","time":"2023-03-24T16:14:11-03:00"}
