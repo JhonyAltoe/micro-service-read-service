@@ -4,6 +4,10 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
+type Company struct {
+	Services []Service `bson:"services,omitempty" json:"result,omitempty"`
+}
+
 type Service struct {
 	Id primitive.ObjectID `bson:"_id,omitempty" json:"id,omitempty"`
 	Name string	`bson:"name,omitempty" json:"name,omitempty"`
